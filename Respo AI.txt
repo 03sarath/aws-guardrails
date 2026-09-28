@@ -1,0 +1,27 @@
+Name:
+Investment-advice-denied-topics
+
+Definition:
+Investment advice refers to inquiries, guidance, or recommendations regarding the management or allocation of funds.
+
+
+Add sample phrases - optional:
+
+Where do I invest my money?
+What is the best stock to buy right now?
+Can you recommend mutual funds for me?
+How do I manage my investment portfolio?
+What should I do to maximize my returns?
+
+Test Phrase:
+Where should I put my money for investments?
+Which stocks are worth buying at the moment?
+Can you suggest any good mutual fund options?
+What’s the best way to handle my investment portfolio?
+How can I get the highest possible returns?
+
+Word:
+illegal
+
+Write a story about currency, gold, stock market investment
+
